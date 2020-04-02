@@ -20,3 +20,6 @@
   OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.6+10)\
   OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.6+10, mixed mode)
  * Intelliji IDEA Community Edition 2019.3.4
+
+## Общие рекомендации
+Для корректной работы необходимо изменить тип переменных на long
